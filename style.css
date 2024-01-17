@@ -1,0 +1,96 @@
+.header {
+    width: 100%;
+    text-align: center;
+    padding: 15px 0;
+    font-size: 24px;
+    font-weight: 300;
+    color:black;
+    border-bottom: 2px solid black;
+
+}
+
+.header_logo {
+    color: inherit;
+    text-decoration: none;   
+}
+
+.hero {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    max-width: 1230px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 15px;
+    color: black;
+
+}
+
+
+.hero_about {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.hero_title {
+    margin-left: 500px;
+    margin-top: 70px;
+    margin-bottom: 20px;
+    font-size: 48 px;
+    line-height: 0.2;
+}
+
+.hero_description {
+    margin-left: 220px;
+    margin-top: 70px;
+    margin-bottom: 40px;
+    font-size: 40 px;
+    line-height: 0.2;  
+}
+
+.n {
+    margin-left: 540px;
+    margin-top: 70px;
+    margin-bottom: 20px;
+    font-size: 48 px;
+}
+
+
+
+
+
+.selection {
+    background-color: gray;
+    padding: 20px;
+    margin-bottom: 20px;
+    border: 2px solid black;
+    border-radius: 10px;
+  }
+
+.footer {
+    width: 100%;
+    font-size: medium;
+    border-top: 2px solid black;
+    text-align: center;
+}
+
+.inf {
+    text-align: center;
+}
+
+.num {
+    text-align: center;
+    line-height: 0.6;
+
+}
+
+.tel { 
+    margin-top: 30px;
+    text-align: center;
+    line-height: 0.6;
+
+}
